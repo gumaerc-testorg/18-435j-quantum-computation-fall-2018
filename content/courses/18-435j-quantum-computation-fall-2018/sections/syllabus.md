@@ -29,7 +29,7 @@ This course provides an introduction to the theory and practice of quantum compu
 Textbook
 --------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/dp/9781107002173/?tag=mitopencourse-20) Nielsen, Michael A., and Isaac L. Chuang. 2019. Quantum computation and quantum information. Cambridge: Cambridge University Press. ISBN: 9781107002173.
+{{% resource_link "24e5d4fd-4796-4cee-a6b0-34f3b288d5e9" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Nielsen, Michael A., and Isaac L. Chuang. 2019. Quantum computation and quantum information. Cambridge: Cambridge University Press. ISBN: 9781107002173.
 
 Problem Sets and Exams
 ----------------------
